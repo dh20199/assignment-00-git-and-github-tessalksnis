@@ -1,7 +1,7 @@
 {
   "firstName": "Tess",
   "lastName": "Alksnis",
-  "nickName": "Night Owl",
+  "nickName": "",
   "privateName": false,
   "picture": "file:///Users/tessalksnis/Desktop/Screen%20Shot%202019-09-11%20at%201.32.40%20PM.png",
   "privatePicture": false,
@@ -10,5 +10,5 @@
   "github": "tessalksnis",
   "privateGithub": false,
   "superpower" : "Never waking up before 12pm",
-  "academicinterests": "Getting her degree"
+  "academicinterests": "History, political science, and material culture."
 }
